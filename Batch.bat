@@ -1,1 +1,2 @@
-Echo 'Test batch script'
+@Echo 'Test batch script'
+@Echo 'GIT Repo'
